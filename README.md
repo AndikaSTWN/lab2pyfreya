@@ -8,14 +8,14 @@
 Print("Hello")
 ```
 ### maka outputnya
-![gambar 1](gambar1.jpeg)
+![Alt text](image-1.png)
 
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
 ```
 Print("Saya sedang belajar python")
 ```
-### maka outputnya
-![gambar 2](gambar2.jpeg)
+### maka outputnya!
+[Alt text](image-2.png)
 
 ## Latihan 2
 
@@ -32,7 +32,7 @@ print("Variable b=",b )
 print("Hasil penjumlahan a+b=",a + b )
 ```
 ### maka outputnya
-![gambar 2](gambar3.jpeg)
+![Alt text](image-3.png)
 
 ## Latihan 3
 
@@ -42,8 +42,8 @@ pada folder lab2py pada direktori kerja anda)
 * Menggunakan fungsi input untuk mengambil nilai variabel dari
 keyboard.
 
-![gambar 2](update2.jpeg)
+![al](image-4.png)
 
 ### Maka Outputnya
 
-![Alt text](update1.jpeg)
+![Alt text](image-5.png)
